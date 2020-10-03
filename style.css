@@ -1,0 +1,19 @@
+header{
+
+color: white;
+background: black  
+
+
+}
+
+
+nav{
+
+
+    display: flex;
+    justify-content: space-between ;
+}
+p
+{
+    color: white;
+}
